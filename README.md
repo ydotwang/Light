@@ -4,7 +4,7 @@
 **Light** is a single-player RPG adventure game developed by Yuyang Wang and the team. It is a top-down shooter with puzzles set in a distant future on a different planet inhabited by droids. A sudden power outage leaves most droids inoperable, and the remaining droids must overcome numerous obstacles to find a new power source.
 
 
-## Features
+## Features implemented by Yuyang
 - **AI Ghosts:** Coded AI ghosts that can chase and attack the player while patrolling.
 - **Puzzle Design:** Designed puzzles with laser emitters, mirrors, and sensors.
 - **Soundtrack:** Created soundtracks for puzzle-solving and combat parts, and added sound effects for various game actions.
@@ -15,7 +15,3 @@
 - **Soundtrack Creation:** Used Garageband to make an exciting combat soundtrack and a mysterious, quiet puzzle-solving soundtrack.
 - **Game Testing and Demo:** Recorded a game demo video available on Bilibili.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Light.git
