@@ -3,7 +3,6 @@
 ## Description
 **Light** is a single-player RPG adventure game developed by Yuyang Wang and the team. It is a top-down shooter with puzzles set in a distant future on a different planet inhabited by droids. A sudden power outage leaves most droids inoperable, and the remaining droids must overcome numerous obstacles to find a new power source.
 
-This project is an updated version of an older project by Prof. Stacy Doore.
 
 ## Features
 - **AI Ghosts:** Coded AI ghosts that can chase and attack the player while patrolling.
